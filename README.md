@@ -6,42 +6,41 @@ CPU (Unidad Central de Procesamiento):
 Es el cerebro de la computadora, encargado de ejecutar instrucciones y procesar datos.
 Componentes principales:
 
-### Núcleos (cores): 
+1.  **Núcleos (cores):**
 Cada núcleo puede ejecutar tareas de forma independiente.
 
-Caché: Memoria ultrarrápida que almacena datos temporales para acelerar el procesamiento.
+- **Caché:** Memoria ultrarrápida que almacena datos temporales para acelerar el procesamiento.
 
-### RAM (Memoria de Acceso Aleatorio):
+2. **RAM (Memoria de Acceso Aleatorio):**
 Memoria volátil que almacena datos temporales y programas en ejecución.
 
-### Almacenamiento:
+3. **Almacenamiento:**
 Tipos: DDR (Double Data Rate), DDR2, DDR3, DDR4, DDR5.
 
-### HDD (Disco Duro): 
+4.  **HDD (Disco Duro):**
 Dispositivo de almacenamiento magnético con mayor capacidad pero menor velocidad en comparación con los SSD.
 
-### SSD (Unidad de Estado Sólido): 
+5. **SSD (Unidad de Estado Sólido):**
 Dispositivo de almacenamiento basado en memoria flash, con mayor velocidad pero generalmente menor capacidad que los HDD.
 
-### Placa base (Motherboard):
+6. **Placa base (Motherboard):**
 Placa de circuito principal que conecta todos los componentes de la computadora.
 
-### Componentes integrados:
-Chipset: Gestiona la comunicación entre la CPU, la RAM y otros componentes.
+7. **Componentes integrados:**
 
-Conectores y puertos: Para dispositivos de entrada/salida y almacenamiento.
+- **Chipset:** Gestiona la comunicación entre la CPU, la RAM y otros componentes.
+- **Conectores y puertos:** Para dispositivos de entrada/salida y almacenamiento.
+- **Slots de expansión:** Para tarjetas adicionales como GPU, tarjetas de sonido, etc.
 
-Slots de expansión: Para tarjetas adicionales como GPU, tarjetas de sonido, etc.
+8. **Dispositivos de entrada y salida:**
 
-### Dispositivos de entrada y salida:
-Entrada: Teclado, ratón, escáner, micrófono.
+- **Entrada:** Teclado, ratón, escáner, micrófono.
+- **Salida:** Monitor, impresora, altavoces.
 
-Salida: Monitor, impresora, altavoces.
+9. **Buses (de datos y dirección):**
 
-### Buses (de datos y dirección):
-Bus de datos: Transporta datos entre los componentes de la computadora.
-
-Bus de dirección: Transporta las direcciones de memoria donde se encuentran los datos.
+- **Bus de datos:** Transporta datos entre los componentes de la computadora.
+- **Bus de dirección:** Transporta las direcciones de memoria donde se encuentran los datos.
 
 
 # Software
@@ -49,26 +48,26 @@ Bus de dirección: Transporta las direcciones de memoria donde se encuentran los
 ### Sistema Operativo:
 Software que gestiona los recursos del hardware y proporciona servicios a las aplicaciones.
 
-Ejemplos: Windows, macOS, Linux.
+- **Ejemplos:** Windows, macOS, Linux.
 
 ### Aplicaciones de usuario:
 Programas diseñados para realizar tareas específicas para el usuario.
 
-Ejemplos: Microsoft Office, navegadores web, juegos, aplicaciones de diseño gráfico.
+- **Ejemplos:** Microsoft Office, navegadores web, juegos, aplicaciones de diseño gráfico.
 
 ### Drivers:
 Software que permite que el sistema operativo y las aplicaciones se comuniquen con el hardware.
 
-Ejemplos: Drivers de impresora, drivers de tarjeta gráfica.
+- **Ejemplos:** Drivers de impresora, drivers de tarjeta gráfica.
 
 ### Software de desarrollo:
 Herramientas utilizadas para crear y mantener software.
 
-Ejemplos: IDEs (Integrated Development Environments) como Visual Studio, Eclipse; lenguajes de programación como Python, Java.
+- **Ejemplos:** IDEs (Integrated Development Environments) como Visual Studio, Eclipse; lenguajes de programación como Python, Java.
 
 
 
-# xd
+
 
 # Investigación: Partes de una Computadora Moderna
 
@@ -184,3 +183,52 @@ Aquí hay un ejemplo de cómo organizar la información en un mapa mental utiliz
             - Ejemplos
         - Software de desarrollo
             - Ejemplos
+
+# 3. Mapa conceptual:
+
+
+
+
+# 4. Respuestas a Preguntas:
+
+## 1. ¿Cuál es la función principal de cada componente investigado?
+
+- **CPU (Unidad Central de Procesamiento)**: Es el cerebro de la computadora, encargado de ejecutar instrucciones y procesar datos. Realiza cálculos, toma decisiones y coordina el funcionamiento de otros componentes.
+- **RAM (Memoria de Acceso Aleatorio)**: Almacena datos temporales y programas en ejecución que la CPU necesita acceder rápidamente. Permite que los procesos se ejecuten de manera más eficiente al tener datos y programas de uso frecuente disponibles de inmediato.
+- **Almacenamiento (HDD y SSD)**: Guarda datos de manera permanente. El HDD utiliza discos magnéticos giratorios, mientras que el SSD usa memoria flash. El SSD es más rápido y confiable, pero generalmente más caro que el HDD.
+- **Placa base (Motherboard)**: Conecta y permite la comunicación entre todos los componentes de la computadora. Incluye el chipset, puertos de expansión, conectores para dispositivos y más.
+- **Dispositivos de entrada y salida**: Permiten la interacción con la computadora. Los dispositivos de entrada (como el teclado y el ratón) permiten al usuario introducir datos, mientras que los de salida (como el monitor y los altavoces) muestran o reproducen información procesada.
+- **Buses (de datos y dirección)**: Transportan información entre la CPU, la memoria y otros componentes. El bus de datos mueve datos, mientras que el bus de dirección transporta las direcciones de memoria de los datos que se están procesando.
+
+## 2. ¿Cómo interactúa el hardware con el software, cuál es la función de cada uno?
+
+- **Hardware**: Son los componentes físicos de la computadora, como la CPU, RAM, y disco duro. Su función es ejecutar las instrucciones proporcionadas por el software y realizar tareas físicas.
+- **Software**: Son los programas y sistemas operativos que indican al hardware qué hacer. El software se encarga de realizar tareas específicas, procesar datos y ofrecer una interfaz para el usuario. El software necesita del hardware para ejecutar sus funciones, y el hardware sigue las instrucciones proporcionadas por el software.
+
+## 3. ¿Cuál es la función de la CPU y cuáles son sus partes más importantes?
+
+- **Función de la CPU**: Ejecuta instrucciones y procesa datos. Realiza cálculos, toma decisiones y coordina la operación de otros componentes.
+- **Partes más importantes**:
+    - **Núcleos (cores)**: Ejecutan tareas de manera independiente. Más núcleos permiten manejar múltiples tareas simultáneamente.
+    - **Caché**: Memoria ultrarrápida que almacena datos temporales y frecuentemente usados para acelerar el procesamiento.
+    - **ALU (Unidad Aritmético-Lógica)**: Realiza operaciones matemáticas y lógicas.
+    - **FPU (Unidad de Punto Flotante)**: Maneja operaciones matemáticas con números decimales.
+
+## 4. ¿Qué es la velocidad de la CPU, también conocida como velocidad del reloj?
+
+- **Velocidad de la CPU (velocidad del reloj)**: Es la rapidez con la que la CPU puede ejecutar instrucciones. Se mide en hercios (Hz), comúnmente en gigahercios (GHz). Una mayor velocidad del reloj significa que la CPU puede realizar más ciclos de procesamiento por segundo, lo que generalmente se traduce en un rendimiento más rápido.
+
+## 5. ¿Cuál es la secuencia de pasos que ocurre, desde el momento en que presionas el botón de encendido de la computadora, hasta que se muestra el sistema operativo listo para funcionar? Describe todos los elementos involucrados y el paso a paso.
+
+1. **Presionas el botón de encendido**: Se envía una señal al sistema de energía para que proporcione electricidad a todos los componentes.
+2. **Power-On Self Test (POST)**: La CPU inicia el POST para verificar que los componentes esenciales, como la RAM y la placa base, estén funcionando correctamente.
+3. **Carga del BIOS/UEFI**: El BIOS (Basic Input/Output System) o UEFI (Unified Extensible Firmware Interface) se carga y ejecuta. Esta capa de software se encarga de realizar la configuración inicial del hardware y preparar el sistema para arrancar.
+4. **Detección y Configuración del Hardware**: El BIOS/UEFI detecta y configura el hardware conectado, como discos duros y periféricos.
+5. **Carga del Bootloader**: El BIOS/UEFI busca el dispositivo de arranque (por lo general, el disco duro o SSD) y carga el bootloader, que es un programa pequeño que inicia el sistema operativo.
+6. **Inicio del Sistema Operativo**: El bootloader carga el núcleo del sistema operativo en la memoria RAM y lo inicia.
+7. **Carga de Servicios y Controladores**: El sistema operativo carga los controladores de hardware y servicios necesarios para el funcionamiento de la computadora.
+8. **Interfaz de Usuario**: Finalmente, se muestra la pantalla de inicio de sesión o el escritorio del sistema operativo, y la computadora está lista para ser usada.
+
+## 6. Comenta algo que no sabías y que descubriste en esta actividad.
+
+Un aspecto interesante, es la complejidad del proceso de arranque de una computadora. La secuencia de pasos desde el encendido hasta la carga del sistema operativo involucra múltiples etapas y componentes que trabajan en conjunto para preparar la máquina para el uso cotidiano. La interacción entre el hardware y el software en estos procesos es crucial para el funcionamiento correcto de la computadora.
